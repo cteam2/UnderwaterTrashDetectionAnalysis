@@ -1,0 +1,10 @@
+sewar
+niqe
+matplotlib
+pandas
+numpy
+torch
+ultralytics==8.0.207
+IPython
+tensorflow
+# cv2
