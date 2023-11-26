@@ -1,0 +1,1 @@
+python3.5 predict_mass.py test_set_images/airplane_clock_1.jpg 6.25 1.25 2.125 2>/dev/null
